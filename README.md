@@ -15,3 +15,4 @@ Due to file size, the dataset is hosted externally. You can download it [here fr
 
 ## Report
 Can download directly from reporistory or [here](https://github.com/user-attachments/files/17582992/EDA.Project.pdf)
+![EDA Project](https://github.com/user-attachments/assets/7b8588a0-1832-4348-8c6a-7081603ce539)
