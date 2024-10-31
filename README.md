@@ -12,3 +12,6 @@ This project investigates factors influencing loan default rates, aiming to impr
 
 ## Dataset
 Due to file size, the dataset is hosted externally. You can download it [here from Google Drive](https://drive.google.com/drive/folders/1SN6OjvxYlaD4sZ0EDjyT8-9yMW3X03xA?usp=sharing).
+
+## Report
+Can download directly from reporistory or [here](https://github.com/user-attachments/files/17582992/EDA.Project.pdf)
