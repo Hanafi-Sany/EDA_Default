@@ -9,3 +9,6 @@ This project investigates factors influencing loan default rates, aiming to impr
 3. **Statistical Analysis**: Descriptive statistics and correlation analysis to highlight influential features.
 4. **Key Findings**: Identified insights/patterns such as demographic factors, income levels, highest education.
 5. **Recommendations**: Actionable strategies based on insights for better loan approval criteria.
+
+## Dataset
+Due to file size, the dataset is hosted externally. You can download it [here from Google Drive](https://drive.google.com/drive/folders/1SN6OjvxYlaD4sZ0EDjyT8-9yMW3X03xA?usp=sharing).
